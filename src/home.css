@@ -1,0 +1,31 @@
+.facebook:hover {
+    color: rgb(0, 110, 255);
+  }
+  
+  .instagram:hover {
+    color: rgb(255, 0, 191);
+  }
+  
+  .twiter:hover {
+    color: rgb(86, 154, 243);
+  }
+  
+  .linkdin:hover {
+    color: rgb(36, 94, 170);
+  }
+  
+  .Nav {
+    color: white;
+  }
+
+  .navIcon {
+    color: white;
+  }
+
+  .colorWhite {
+    color: white;
+  }
+
+  a {
+    color: white;
+  }
