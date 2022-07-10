@@ -23,7 +23,7 @@ function Home() {
                     <span className="d-none d-web-contents"> | </span>
                     <span className="d-mobile-block"><b style={{color:"#286f6f"}}>Phone:</b> +918511303703</span>
                 </p>
-                <p className="text-center"><b style={{color:"#286f6f"}}>Address:</b> Rajkot, Gujarat - 360006</p>
+                <p className="text-center"><b style={{color:"#286f6f"}}>Address:</b> Ahmedabad, Gujarat - 382418</p>
                 <div className="justify-content-around">
                 <Nav className="justify-content-center" activeKey="/home">
                     <Nav.Item>
@@ -119,7 +119,7 @@ function Home() {
                                 <span className="badge me-3 mb-2 p-2 rounded" style={{background:"#286f6f"}}>Swimming</span>
                                 <span className="badge me-3 mb-2 p-2 rounded" style={{background:"#286f6f"}}>Travelling</span>
                                 <span className="badge me-3 mb-2 p-2 rounded" style={{background:"#286f6f"}}>Photography</span>
-                                <span className="badge me-3 mb-2 p-2 rounded" style={{background:"#286f6f"}}>Artifical Intelligence</span>
+                                <span className="badge me-3 mb-2 p-2 rounded" style={{background:"#286f6f"}}>Artificial Intelligence</span>
                             </div>
                         </div>
                     </div>

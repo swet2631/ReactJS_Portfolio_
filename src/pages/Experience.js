@@ -1,5 +1,6 @@
 import React from "react";
 import { Card } from "react-bootstrap";
+import './../experiance.css';
 
 function Experience() {
     return (
@@ -11,14 +12,14 @@ function Experience() {
                         <div className="col-md-6 offset-md-3">
                         <div className="card mb-3">
                             <Card className="text-center">
-                            <Card.Header style={{background:"#286f6f"}}><b style={{color:"white"}}>Coding Gujju</b></Card.Header>
+                            <Card.Header style={{background:"#286f6f"}}><b style={{color:"white"}}>Creart</b></Card.Header>
                                 <Card.Body>
-                                    <Card.Title>Full Stack Developer</Card.Title>
+                                    <Card.Title>Python Internship</Card.Title>
                                         <Card.Text>
-                                                I was an Intern at Codding Gujju.
+                                                I was an Intern at Creart.
                                         </Card.Text>
                                     </Card.Body>
-                                 <Card.Footer className="text-muted">6-JUNE T0 24-JUNE</Card.Footer>
+                                 <Card.Footer className="text-muted">20-JUNE TO 09-JULY</Card.Footer>
                             </Card> 
                         </div>         
                     </div>
@@ -27,14 +28,14 @@ function Experience() {
                         <div className="col-md-6 offset-md-3">
                             <div className="card mb-3">
                             <Card className="text-center">
-                            <Card.Header style={{background:"#286f6f"}}><b style={{color:"white"}}>Creart</b></Card.Header>
+                            <Card.Header style={{background:"#286f6f"}}><b style={{color:"white"}}>Coding Gujju</b></Card.Header>
                                 <Card.Body>
-                                    <Card.Title>Full Stack Developer</Card.Title>
+                                    <Card.Title>Web Developer</Card.Title>
                                         <Card.Text>
-                                                I was an Intern at Creart.
+                                                I was an Intern at Coding Gujju.
                                         </Card.Text>
                                     </Card.Body>
-                                 <Card.Footer className="text-muted">MAY-2021 T0 JUNE-2021</Card.Footer>
+                                 <Card.Footer className="text-muted">06-JUNE T0 24-JUNE</Card.Footer>
                             </Card> 
                             </div>
                         </div>
