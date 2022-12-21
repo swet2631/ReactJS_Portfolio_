@@ -13,7 +13,7 @@ function Home() {
                 <img src={avtar} width={200} alt="Swet Patel" className="rounded-circle" style={{border:"2px solid white"}}/>
                 <h1 className="pt-3">Hii,<span style={{color:"#286f6f"}}>I'm Swet Patel</span></h1>
                 <h5>UI DESIGNER / WEB DEVLOPER</h5>
-                <p className="text-center border-bottom pb-2 pt-3">Right now i’m in SilverOak University pursuing 5th Semester in B-Tech IT. To establish my self as Front-End Devloper with the Skills and Knowledge of HTML, CSS, JAVASCRIPT, Bootstrap and React JS. I would like to implement my Innovative ideas, Skills and Creativity for accomplishing the project. I like to Learn and Adopt new Devlopment Technology. <p className="text-center mt-2">
+                <p className="text-center border-bottom pb-2 pt-3">Right now i’m studying in SilverOak University pursuing my degree in B-Tech IT(5th semester). To establish my self as Front-End Devloper with the Skills and Knowledge of HTML, CSS, JAVASCRIPT, Bootstrap and React JS. I would like to implement my Innovative ideas, Skills and Creativity for accomplishing the project. I like to Learn and Adopt new Devlopment Technology. <p className="text-center mt-2">
                     <span className="d-mobile-block"><b style={{color:"#286f6f"}}>D.O.B.:</b> 26 April 2003</span>
                     <span className="d-none d-web-contents"> | </span>
                     <span className="d-mobile-block"><b style={{color:"#286f6f"}}>AGE:</b> 19</span>
